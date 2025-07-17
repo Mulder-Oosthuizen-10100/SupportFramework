@@ -1,0 +1,46 @@
+html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Modular App Client</title>
+    <style>
+        #output { white-space: pre-wrap; font-family: monospace; }
+    </style>
+</head>
+<body>
+    <h1>Modular App</h1>
+    <select id="moduleSelect"></select>
+    <input id="commandInput" placeholder="Enter command (e.g., get_hierarchy, list_dir, migrate_data)">
+    <button onclick="sendCommand()">Send</button>
+    <div id="output"></div>
+
+    <script>
+        let ws = new WebSocket("ws://localhost:8080/ws/");
+        let output = document.getElementById("output");
+        let moduleSelect = document.getElementById("moduleSelect");
+
+        ws.onopen = () => {
+            output.textContent += "Connected to WebSocket server\n";
+        };
+
+        ws.onmessage = (event) => {
+            const data = JSON.parse(event.data);
+            if (data.modules) {
+                moduleSelect.innerHTML = data.modules.map(m => `<option value="${m}">${m}</option>`).join("");
+            } else {
+                output.textContent += JSON.stringify(data, null, 2) + "\n";
+            }
+        };
+
+        ws.onclose = () => {
+            output.textContent += "Disconnected from server\n";
+        };
+
+        function sendCommand() {
+            const module = moduleSelect.value;
+            const command = document.getElementById("commandInput").value;
+            ws.send(JSON.stringify({ module, command }));
+        }
+    </script>
+</body>
+</html>

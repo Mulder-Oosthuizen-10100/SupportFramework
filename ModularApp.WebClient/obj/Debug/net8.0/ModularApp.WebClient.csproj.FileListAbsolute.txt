@@ -1,0 +1,11 @@
+C:\Projects\SupportFramework\ModularApp.WebClient\bin\Debug\net8.0\ModularApp.WebClient.deps.json
+C:\Projects\SupportFramework\ModularApp.WebClient\bin\Debug\net8.0\ModularApp.WebClient.dll
+C:\Projects\SupportFramework\ModularApp.WebClient\bin\Debug\net8.0\ModularApp.WebClient.pdb
+C:\Projects\SupportFramework\ModularApp.WebClient\obj\Debug\net8.0\ModularApp.WebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SupportFramework\ModularApp.WebClient\obj\Debug\net8.0\ModularApp.WebClient.AssemblyInfoInputs.cache
+C:\Projects\SupportFramework\ModularApp.WebClient\obj\Debug\net8.0\ModularApp.WebClient.AssemblyInfo.cs
+C:\Projects\SupportFramework\ModularApp.WebClient\obj\Debug\net8.0\ModularApp.WebClient.csproj.CoreCompileInputs.cache
+C:\Projects\SupportFramework\ModularApp.WebClient\obj\Debug\net8.0\ModularApp.WebClient.dll
+C:\Projects\SupportFramework\ModularApp.WebClient\obj\Debug\net8.0\refint\ModularApp.WebClient.dll
+C:\Projects\SupportFramework\ModularApp.WebClient\obj\Debug\net8.0\ModularApp.WebClient.pdb
+C:\Projects\SupportFramework\ModularApp.WebClient\obj\Debug\net8.0\ref\ModularApp.WebClient.dll

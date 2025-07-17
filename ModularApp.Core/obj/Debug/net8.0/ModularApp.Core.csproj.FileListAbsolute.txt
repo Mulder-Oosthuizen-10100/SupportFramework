@@ -1,0 +1,11 @@
+C:\Projects\SupportFramework\ModularApp.Core\bin\Debug\net8.0\ModularApp.Core.deps.json
+C:\Projects\SupportFramework\ModularApp.Core\bin\Debug\net8.0\ModularApp.Core.dll
+C:\Projects\SupportFramework\ModularApp.Core\bin\Debug\net8.0\ModularApp.Core.pdb
+C:\Projects\SupportFramework\ModularApp.Core\obj\Debug\net8.0\ModularApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SupportFramework\ModularApp.Core\obj\Debug\net8.0\ModularApp.Core.AssemblyInfoInputs.cache
+C:\Projects\SupportFramework\ModularApp.Core\obj\Debug\net8.0\ModularApp.Core.AssemblyInfo.cs
+C:\Projects\SupportFramework\ModularApp.Core\obj\Debug\net8.0\ModularApp.Core.csproj.CoreCompileInputs.cache
+C:\Projects\SupportFramework\ModularApp.Core\obj\Debug\net8.0\ModularApp.Core.dll
+C:\Projects\SupportFramework\ModularApp.Core\obj\Debug\net8.0\refint\ModularApp.Core.dll
+C:\Projects\SupportFramework\ModularApp.Core\obj\Debug\net8.0\ModularApp.Core.pdb
+C:\Projects\SupportFramework\ModularApp.Core\obj\Debug\net8.0\ref\ModularApp.Core.dll

@@ -1,0 +1,15 @@
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\bin\Debug\net8.0\ModularApp.FileSystemModule.deps.json
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\bin\Debug\net8.0\ModularApp.FileSystemModule.dll
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\bin\Debug\net8.0\ModularApp.FileSystemModule.pdb
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\bin\Debug\net8.0\ModularApp.Core.dll
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\bin\Debug\net8.0\ModularApp.Core.pdb
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\obj\Debug\net8.0\ModularApp.FileSystemModule.csproj.AssemblyReference.cache
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\obj\Debug\net8.0\ModularApp.FileSystemModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\obj\Debug\net8.0\ModularApp.FileSystemModule.AssemblyInfoInputs.cache
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\obj\Debug\net8.0\ModularApp.FileSystemModule.AssemblyInfo.cs
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\obj\Debug\net8.0\ModularApp.FileSystemModule.csproj.CoreCompileInputs.cache
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\obj\Debug\net8.0\ModularA.E6F76010.Up2Date
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\obj\Debug\net8.0\ModularApp.FileSystemModule.dll
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\obj\Debug\net8.0\refint\ModularApp.FileSystemModule.dll
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\obj\Debug\net8.0\ModularApp.FileSystemModule.pdb
+C:\Projects\SupportFramework\ModularApp.FileSystemModule\obj\Debug\net8.0\ref\ModularApp.FileSystemModule.dll

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModularApp.Core", "ModularApp.Core\ModularApp.Core.csproj", "{99431FC1-0F2A-4247-9941-66F3EC58F9ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModularApp.EngineModule", "ModularApp.EngineModule\ModularApp.EngineModule.csproj", "{29C903EF-0607-4C54-97D7-A392ED03C703}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModularApp.FileSystemModule", "ModularApp.FileSystemModule\ModularApp.FileSystemModule.csproj", "{63A7A0A0-6055-42DE-9324-531430A1392B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModularApp.DatabaseMigrationModule", "ModularApp.DatabaseMigrationModule\ModularApp.DatabaseMigrationModule.csproj", "{B5428849-15C5-47C6-A412-F92D347C6A1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModularApp.WebClient", "ModularApp.WebClient\ModularApp.WebClient.csproj", "{202C170A-61FD-4D97-ABEB-D7177475B46C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModularApp.WebsocketServer", "ModularApp.WebsocketServer\ModularApp.WebsocketServer.csproj", "{722234DB-EEBC-4E40-87B4-E99F03998DA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99431FC1-0F2A-4247-9941-66F3EC58F9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99431FC1-0F2A-4247-9941-66F3EC58F9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99431FC1-0F2A-4247-9941-66F3EC58F9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99431FC1-0F2A-4247-9941-66F3EC58F9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C903EF-0607-4C54-97D7-A392ED03C703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C903EF-0607-4C54-97D7-A392ED03C703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C903EF-0607-4C54-97D7-A392ED03C703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C903EF-0607-4C54-97D7-A392ED03C703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A7A0A0-6055-42DE-9324-531430A1392B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A7A0A0-6055-42DE-9324-531430A1392B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A7A0A0-6055-42DE-9324-531430A1392B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A7A0A0-6055-42DE-9324-531430A1392B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5428849-15C5-47C6-A412-F92D347C6A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5428849-15C5-47C6-A412-F92D347C6A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5428849-15C5-47C6-A412-F92D347C6A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5428849-15C5-47C6-A412-F92D347C6A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202C170A-61FD-4D97-ABEB-D7177475B46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202C170A-61FD-4D97-ABEB-D7177475B46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202C170A-61FD-4D97-ABEB-D7177475B46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202C170A-61FD-4D97-ABEB-D7177475B46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{722234DB-EEBC-4E40-87B4-E99F03998DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722234DB-EEBC-4E40-87B4-E99F03998DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722234DB-EEBC-4E40-87B4-E99F03998DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722234DB-EEBC-4E40-87B4-E99F03998DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
