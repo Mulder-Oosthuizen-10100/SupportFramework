@@ -52,3 +52,4 @@ C:\Projects\SupportFramework\ModularApp.WebsocketServer\obj\Debug\net8.0\refint\
 C:\Projects\SupportFramework\ModularApp.WebsocketServer\obj\Debug\net8.0\ModularApp.WebsocketServer.pdb
 C:\Projects\SupportFramework\ModularApp.WebsocketServer\obj\Debug\net8.0\ModularApp.WebsocketServer.genruntimeconfig.cache
 C:\Projects\SupportFramework\ModularApp.WebsocketServer\obj\Debug\net8.0\ref\ModularApp.WebsocketServer.dll
+C:\Projects\SupportFramework\ModularApp.WebsocketServer\obj\Debug\net8.0\ModularApp.WebsocketServer.sourcelink.json

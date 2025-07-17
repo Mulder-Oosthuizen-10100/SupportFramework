@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Projects\\SupportFramework\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{722234DB-EEBC-4E40-87B4-E99F03998DA0}|ModularApp.WebsocketServer\\ModularApp.WebsocketServer.csproj|c:\\projects\\supportframework\\modularapp.websocketserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722234DB-EEBC-4E40-87B4-E99F03998DA0}|ModularApp.WebsocketServer\\ModularApp.WebsocketServer.csproj|solutionrelative:modularapp.websocketserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29C903EF-0607-4C54-97D7-A392ED03C703}|ModularApp.EngineModule\\ModularApp.EngineModule.csproj|c:\\projects\\supportframework\\modularapp.enginemodule\\enginemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29C903EF-0607-4C54-97D7-A392ED03C703}|ModularApp.EngineModule\\ModularApp.EngineModule.csproj|solutionrelative:modularapp.enginemodule\\enginemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{63A7A0A0-6055-42DE-9324-531430A1392B}|ModularApp.FileSystemModule\\ModularApp.FileSystemModule.csproj|c:\\projects\\supportframework\\modularapp.filesystemmodule\\filesystemmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63A7A0A0-6055-42DE-9324-531430A1392B}|ModularApp.FileSystemModule\\ModularApp.FileSystemModule.csproj|solutionrelative:modularapp.filesystemmodule\\filesystemmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{722234DB-EEBC-4E40-87B4-E99F03998DA0}|ModularApp.WebsocketServer\\ModularApp.WebsocketServer.csproj|c:\\projects\\supportframework\\modularapp.websocketserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{722234DB-EEBC-4E40-87B4-E99F03998DA0}|ModularApp.WebsocketServer\\ModularApp.WebsocketServer.csproj|solutionrelative:modularapp.websocketserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99431FC1-0F2A-4247-9941-66F3EC58F9ED}|ModularApp.Core\\ModularApp.Core.csproj|c:\\projects\\supportframework\\modularapp.core\\websocketconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -58,8 +58,7 @@
               "RelativeToolTip": "ModularApp.WebClient\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-17T18:53:31.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T18:53:31.853Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "ModularApp.WebClient\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T18:53:28.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T18:53:28.759Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "ModularApp.Core\\DatabaseSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T18:53:21.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T18:53:21.308Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "ModularApp.Core\\IModule.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T18:53:18.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T18:53:18.421Z"
             },
             {
               "$type": "Document",
@@ -110,12 +106,11 @@
               "RelativeToolTip": "ModularApp.Core\\WebSocketConnection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T18:53:16.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T18:53:16.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DatabaseMigrationModule.cs",
               "DocumentMoniker": "C:\\Projects\\SupportFramework\\ModularApp.DatabaseMigrationModule\\DatabaseMigrationModule.cs",
               "RelativeDocumentMoniker": "ModularApp.DatabaseMigrationModule\\DatabaseMigrationModule.cs",
@@ -123,25 +118,24 @@
               "RelativeToolTip": "ModularApp.DatabaseMigrationModule\\DatabaseMigrationModule.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T18:53:13.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T18:53:13.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EngineModule.cs",
               "DocumentMoniker": "C:\\Projects\\SupportFramework\\ModularApp.EngineModule\\EngineModule.cs",
               "RelativeDocumentMoniker": "ModularApp.EngineModule\\EngineModule.cs",
               "ToolTip": "C:\\Projects\\SupportFramework\\ModularApp.EngineModule\\EngineModule.cs",
               "RelativeToolTip": "ModularApp.EngineModule\\EngineModule.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCkAAAAEAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBwAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T18:53:05.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FileSystemModule.cs",
               "DocumentMoniker": "C:\\Projects\\SupportFramework\\ModularApp.FileSystemModule\\FileSystemModule.cs",
               "RelativeDocumentMoniker": "ModularApp.FileSystemModule\\FileSystemModule.cs",
@@ -149,18 +143,17 @@
               "RelativeToolTip": "ModularApp.FileSystemModule\\FileSystemModule.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T18:53:01.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T18:53:01.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\SupportFramework\\ModularApp.WebsocketServer\\Program.cs",
               "RelativeDocumentMoniker": "ModularApp.WebsocketServer\\Program.cs",
               "ToolTip": "C:\\Projects\\SupportFramework\\ModularApp.WebsocketServer\\Program.cs",
               "RelativeToolTip": "ModularApp.WebsocketServer\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAkwC4AAAAWAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowDYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T14:42:02.903Z",
               "EditorCaption": ""

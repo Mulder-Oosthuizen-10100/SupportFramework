@@ -28,3 +28,4 @@ C:\Projects\SupportFramework\ModularApp.EngineModule\obj\Debug\net8.0\ModularApp
 C:\Projects\SupportFramework\ModularApp.EngineModule\obj\Debug\net8.0\refint\ModularApp.EngineModule.dll
 C:\Projects\SupportFramework\ModularApp.EngineModule\obj\Debug\net8.0\ModularApp.EngineModule.pdb
 C:\Projects\SupportFramework\ModularApp.EngineModule\obj\Debug\net8.0\ref\ModularApp.EngineModule.dll
+C:\Projects\SupportFramework\ModularApp.EngineModule\obj\Debug\net8.0\ModularApp.EngineModule.sourcelink.json

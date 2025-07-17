@@ -53,7 +53,7 @@ namespace ModularApp.WebSocketServer
 
 			// Setup HTTP listener for WebSocket
 			var listener = new HttpListener();
-			listener.Prefixes.Add("http://0.0.0.0:8080/ws/");
+			listener.Prefixes.Add("http://localhost:8080/ws/");
 			listener.Start();
 			Console.WriteLine("WebSocket server running at ws://localhost:8080/ws/");
 
